@@ -1,5 +1,5 @@
 ## Sonar Rock vs Mine Prediction ##
-## This project involves creating a logistic regression model to classify whether sonar signals represent rocks or mines. The dataset used in this project is the Sonar dataset from the UCI Machine Learning Repository ##
+## A logistic regression model to classify whether sonar signals represent rocks or mines. The dataset used in this project is the Sonar dataset from the UCI Machine Learning Repository ##
 ## Steps Involved:
 ## 1- Loading the Dataset:
 The dataset is loaded using the pandas library.
